@@ -1,0 +1,106 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-color: #f8f9fa; 
+    background-image: url("Background/Background\ 5.jpg"); 
+    background-size: cover; 
+    background-position: top; 
+    background-repeat: no-repeat; 
+}
+
+.Home{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-color: #f8f9fa; 
+    background-image: url("Background/Background\ 5.jpg"); 
+    background-size: cover; 
+    background-position: top; 
+    background-repeat: no-repeat; 
+}
+.header {
+    background-color: #bd3a50; 
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center; 
+}
+
+.logo img {
+    width: 50px; 
+    margin-right: 10px; 
+    border-radius: 50%; 
+}
+
+.navbar {
+    background-color: #bd3a50; 
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 10px;
+    margin-left: auto;
+}
+
+.nav-button {
+    color: #fff;
+    text-decoration: none;
+    background-color: #bd3a50;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.nav-button:hover {
+    background-color: #6c1e2b;
+}
+
+.footer {
+    background-color: #bd3a50; 
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.contentPage1 {
+    width: 400px;
+    text-align: justify;
+    color: yellow
+}
+
+
+.SecondPage{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-color: #f8f9fa; 
+    background-image: url("OtherBackgrounds/White\ bg.jpg"); 
+    background-size: cover; 
+    background-position: top; 
+    background-repeat: no-repeat; 
+}
+
+.ThirdPage{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-color: #f8f9fa; 
+    background-image: url("OtherBackgrounds/White\ bg.jpg"); 
+    background-size: cover; 
+    background-position: top; 
+    background-repeat: no-repeat; 
+}
+
+.FourthPage{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0; 
+    background-color: #f8f9fa; 
+    background-image: url("OtherBackgrounds/White\ bg.jpg"); 
+    background-size: cover; 
+    background-position: top; 
+    background-repeat: no-repeat; 
+}
